@@ -3,5 +3,5 @@ flask-cors==4.0.1
 firebase-admin==6.5.0
 scikit-learn==1.7.2
 pandas==3.0.2
-numpy==1.26.4
+numpy==2.4.4
 gunicorn==22.0.0
